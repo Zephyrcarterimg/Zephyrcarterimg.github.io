@@ -1,1 +1,7 @@
+remote_theme: pages-themes/architect@v0.2.0
 
+title: [Zephyrs images]
+
+description: [purley and simply to provide images for my blog]
+
+show_downloads: [false]
